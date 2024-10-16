@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: imagem_simples_processamento
+Version: 0.1
+Requires-Dist: Pillow
